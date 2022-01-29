@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "KW1Agsc6sVpi+8lSzwbYk4hkynVFm8fwWfHNVy+UJCIFl7sxjMtWYb6a2515EuNnEjuyfSW0kI6CY+ftAOQzzg==",
+  "success": true,
+  "projectFilePath": "D:\\ВКР\\Soft\\PythonExecutor\\PythonExecutor\\PythonExecutor.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Asus\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
