@@ -4,7 +4,7 @@ using System.IO;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Parser.Python
+namespace Python
 {
     public class PythonExecutor
     {

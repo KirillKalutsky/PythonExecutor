@@ -1,4 +1,4 @@
-﻿namespace Parser.Infrastructure.Python
+﻿namespace Python
 {
     public class AddrPart
     {

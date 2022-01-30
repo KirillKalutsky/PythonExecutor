@@ -1,6 +1,6 @@
 ﻿using System.Collections.Generic;
 
-namespace Parser.Infrastructure.Python
+namespace Python
 {
     public class ScriptResponse
     {
